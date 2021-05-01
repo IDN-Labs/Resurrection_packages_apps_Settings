@@ -2946,9 +2946,11 @@
     <string name="statusbar_dual_title">Statusbar Dual</string>
     <string name="statusbar_dual_summary">Enable dual row statusbar for notifications</string>
 
-    <!-- Colored Statusbar Icons -->
+    <!-- Colored Statusbar & Header Icons -->
     <string name="statusbar_icons_style">Colored Statusbar Notification Icons</string>
     <string name="statusbar_icons_style_summary">Choose the style of your statusbar notification icons (requires SystemUI restart)</string>
+    <string name="header_icons_style">Colored Notification Headers Icons</string>
+    <string name="header_icons_style_summary">Choose the style of your notification headers icons (requires SystemUI restart)</string>
 
     <!-- QS Themes Type Background -->
     <string name="qs_image_title">QS Image</string>
