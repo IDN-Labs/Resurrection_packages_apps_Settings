@@ -37,6 +37,14 @@
       android:icon="@drawable/ic_gaming"
       android:summary="@string/use_games_spoof_summary" />
 
+    <!-- Unlimited google photos storage -->
+    <SwitchPreference
+      android:key="use_photos_spoof"
+      android:title="@string/use_photos_spoof_title"
+      android:icon="@drawable/rr_sb_weather_icon"
+      android:summary="@string/use_photos_spoof_summary"
+      android:defaultValue="true" />
+
     <Preference
       android:title="@string/weather_title"
       android:icon="@drawable/rr_weather_main_icon"
