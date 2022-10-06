@@ -49,6 +49,14 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.RRVersionDetailPreferenceController"/>
 
+    <!-- RR maintainer -->
+    <Preference
+        android:key="rr_maintainer"
+        android:layout="@layout/card_view_pref_middle"
+        android:title="@string/rr_maintainer_title"
+        android:icon="@drawable/rr_maintainer_icon"
+        android:summary="@string/rr_maintainer_summary"/>
+
     <!-- Lineage API version -->
     <Preference
         android:key="rr_build_type"
