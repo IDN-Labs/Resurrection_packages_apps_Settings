@@ -30,6 +30,13 @@
       android:summary="@string/about_r0m_summary"   
 	  android:fragment="com.android.settings.rr.About" /-->
 
+    <!-- Unlock FPS for specific games -->
+    <SwitchPreference
+      android:key="use_games_spoof"
+      android:title="@string/use_games_spoof_title"
+      android:icon="@drawable/ic_gaming"
+      android:summary="@string/use_games_spoof_summary" />
+
     <Preference
       android:title="@string/weather_title"
       android:icon="@drawable/rr_weather_main_icon"

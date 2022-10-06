@@ -2952,6 +2952,10 @@
     <string name="header_icons_style">Colored Notification Headers Icons</string>
     <string name="header_icons_style_summary">Choose the style of your notification headers icons (requires SystemUI restart)</string>
 
+    <!-- Unlock FPS for specific games -->
+    <string name="use_games_spoof_title">Unlock higher FPS in games</string>
+    <string name="use_games_spoof_summary">Spoof your device as different model for specific games to unlock higher FPS</string>
+
     <!-- QS Themes Type Background -->
     <string name="qs_image_title">QS Image</string>
     <string name="qs_bg_type_title">QS Panel Background</string>
