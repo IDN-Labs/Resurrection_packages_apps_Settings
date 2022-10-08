@@ -412,7 +412,7 @@
     <string name="rr_color_base">Color Scheme</string>
     <string name="rr_switch_base">Switches</string>
     <string name="rr_qs_base">Qs panel &amp; header</string>
-    <string name="rr_radius_base">Radius &amp; height</string>
+    <string name="rr_radius_base">G Visual Mod</string>
     <string name="rr_fonts_base">Fonts</string>
     <string name="rr_icons_base">Icons &amp; shapes</string>
     <string name="rr_nav_base">Navigation bar</string>
@@ -2545,7 +2545,9 @@
 
     <!-- GVM -->
     <string name="theme_customization_statusbar_height_title">Statusbar Height</string>
+    <string name="theme_customization_statusbar_height_summary">Select statusbar height type</string>
     <string name="theme_customization_ui_radius_title">UI Radius</string>
+    <string name="theme_customization_ui_radius_summary">Select UI radius type</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
     <string name="theme_customization_category">Theming</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize accent color. -->
